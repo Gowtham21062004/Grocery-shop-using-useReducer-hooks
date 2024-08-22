@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.9a5c6096.css",
-    "main.js": "/static/js/main.e20144b2.js",
-    "static/js/453.44f0d2f8.chunk.js": "/static/js/453.44f0d2f8.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.9a5c6096.css.map": "/static/css/main.9a5c6096.css.map",
-    "main.e20144b2.js.map": "/static/js/main.e20144b2.js.map",
-    "453.44f0d2f8.chunk.js.map": "/static/js/453.44f0d2f8.chunk.js.map"
+    "main.css": "/Grocery-shop-using-useReducer-hooks/static/css/main.9a5c6096.css",
+    "main.js": "/Grocery-shop-using-useReducer-hooks/static/js/main.3b0acc70.js",
+    "static/js/453.44f0d2f8.chunk.js": "/Grocery-shop-using-useReducer-hooks/static/js/453.44f0d2f8.chunk.js",
+    "static/media/logo.svg": "/Grocery-shop-using-useReducer-hooks/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Grocery-shop-using-useReducer-hooks/index.html",
+    "main.9a5c6096.css.map": "/Grocery-shop-using-useReducer-hooks/static/css/main.9a5c6096.css.map",
+    "main.3b0acc70.js.map": "/Grocery-shop-using-useReducer-hooks/static/js/main.3b0acc70.js.map",
+    "453.44f0d2f8.chunk.js.map": "/Grocery-shop-using-useReducer-hooks/static/js/453.44f0d2f8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9a5c6096.css",
-    "static/js/main.e20144b2.js"
+    "static/js/main.3b0acc70.js"
   ]
 }
