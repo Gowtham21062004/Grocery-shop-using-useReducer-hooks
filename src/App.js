@@ -1,24 +1,20 @@
 import logo from './logo.svg';
 import './App.css';
+import { useState,useEffect,useReducer } from 'react';
+import Grocery from './Components/Grocery';
+// import images1 from'../src/images/img1.jpeg';
+// import images2 from '../src/images/img2.jpeg';
+// import images3 from '../src/images/img3.jpeg';
+// import images4 from '../src/images/img4.jpeg';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+       <h2 style={{textAlign:'center',color:'red'}}>Shopping cart</h2>
+       {/* <img src={images1}></img> */}
+       <Grocery />
+       
+    </>
   );
 }
 
